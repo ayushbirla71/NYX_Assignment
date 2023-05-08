@@ -32,55 +32,45 @@ and managing that records acording to your requirments.
 The following screenshots provide a visual representation of the app:
 
 ###### Home Page
-![CloudNotes Home Page Dark](./screenSorts/HomePage.png "Home Page")
+![Record Managment Home Page Dark](./screenSorts/HomePage.png "Home Page")
 <br>
 <br>
 <br>
 
-###### Product List Page
-![CloudNotes Home Page Light](./frontend/screensorts/productList.png "Product List Page")
+###### Record Details Page
+![Record Managment Details Page Dark](./screenSorts/DetailsPage.png "Records Details Page")
 <br>
 <br>
 <br>
 
-###### Product Details Page
-![CloudNotes About Page Dark](./frontend/screensorts/productDetails.png "Product Details Page")
+###### Record Details Page
+![Record Managment Details Page Dark](./screenSorts/DetailsPage1.png "Records Details Page")
 <br>
 <br>
 <br>
 
-###### SingUp page
-![CloudNotes About Page Light](./frontend/screensorts/registerPage.png "SingUp page")
+###### Create page
+![Record Managment Create Page Light](./screenSorts/CreatePage.png "Record Create page")
 <br>
 <br>
 <br>
 
-###### Login Page
-![CloudNotes Login Page Dark](./frontend/screensorts/logiPage.png "Login Page")
+###### Update Page
+![Record Managment Update Page Dark](./screenSorts/UpdatePage.png "Update Page")
 <br>
 <br>
 <br>
 
-###### Your Profile Page
-![CloudNotes Login Page Light](./frontend/screensorts/userProfile.png "Your Profile Page")
+###### Record Update Page
+![Record Managment Update Page Light](./screenSorts/UpdatePage1.png "Update Page")
 <br>
 <br>
 <br>
 
-###### Cart Page
-![CloudNotes SignUp Page Dark](./frontend/screensorts/shoppingCart.png "Cart Page")
+###### Record Delete Page
+![Record Managment Delete Page Dark](./frontend/screensorts/shoppingCart.png "Delete Page")
 <br>
 <br>
-<br>
-
-###### Payment Details page
-![CloudNotes SignUp Page Light](./frontend/screensorts/cartDetails.png "Payment Details page")
-<br>
-<br>
-<br>
-
-###### Order list
-![CloudNotes SignUp Page Dark](./frontend/screensorts/orderList.png "Order list")
 <br>
 
 
@@ -90,5 +80,5 @@ This project uses several open-source libraries and tools:
 1. React
 2. Node.js
 3. Express.js
-4. Bootstrap
+4. Sementic UI
 5. AWS S3
